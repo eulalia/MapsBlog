@@ -1,0 +1,7 @@
+blogdown::update_hugo()
+blogdown::hugo_version()
+blogdown:::serve_site()
+library(blogdown)
+serve_site()
+library(blogdown)
+serve_site()
