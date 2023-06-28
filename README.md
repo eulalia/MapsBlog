@@ -1,2 +1,2 @@
 # MapsBlogTest
-Tseting a blog for my maps
+This is the blog space to share and work on my maps
